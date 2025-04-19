@@ -1,0 +1,32 @@
+{
+  "name": "ki-language-support",
+  "displayName": "Syntax Highlighting for Ki",
+  "description": "Syntax highlighting for the Ki programming language.",
+  "publisher": "kinderjosh",
+  "icon": "icon.png",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "ki",
+      "aliases": ["Ki", "ki"],
+      "extensions": [".ki"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "ki",
+      "scopeName": "source.ki",
+      "path": "./syntaxes/ki.tmLanguage.json"
+    }]
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kinderjosh/ki-language-support.git"
+  }
+}
