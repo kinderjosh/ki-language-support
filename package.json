@@ -1,6 +1,6 @@
 {
   "name": "ki-language-support",
-  "displayName": "Syntax Highlighting for Ki",
+  "displayName": "Ki Language Support for Visual Studio Code",
   "description": "Syntax highlighting for the Ki programming language.",
   "publisher": "kinderjosh",
   "icon": "icon.png",
