@@ -3,8 +3,8 @@
   "displayName": "Ki Language Support for Visual Studio Code",
   "description": "Syntax highlighting for the Ki programming language.",
   "publisher": "kinderjosh",
-  "icon": "icon.png",
-  "version": "0.1.1",
+  "icon": "ki-small.png",
+  "version": "0.1.2",
   "engines": {
     "vscode": "^1.99.0"
   },
