@@ -1,4 +1,4 @@
-# ki-language-support
+# Ki Language Support for VScode
 
 This extension provides syntax highlighting for the [Ki programming language](https://github.com/kinderjosh/ki).
 
